@@ -9,6 +9,16 @@ For this exercise we were tasked to create a function that should console.log ro
   etc ...
   ```
 Then we were to add logic to the funciton so that it places a space after every fifth letter.
+  ```
+  a
+  ab
+  abc
+  abcd
+  abcde
+  abdce f
+  abcde fg
+  etc ...
+  ```
 
 ## How to Run
 1. Clone repo to your local computer
