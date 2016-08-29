@@ -18,6 +18,6 @@ for (var i = 0; i < alphabet.length; i++) {
   }
 
 // loop will console out the alphabet until the .length funciton is satisfied
-  console.log(alphaString);
+console.log(alphaString);
 
 }
